@@ -1,3 +1,3 @@
 # README
 
-`@umijs/max` 模板项目，更多功能参考 [Umi Max 简介](https://next.umijs.org/zh-CN/docs/max/introduce)
+XlComp, 基于 antd4.x 二次封装的组件库，意为辛灵~
